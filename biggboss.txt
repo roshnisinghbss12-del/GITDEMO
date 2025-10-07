@@ -1,0 +1,24 @@
+>>for 1st time need to configure github in your system
+
+git config --global user.name "roshnisinghbss12-del"
+
+git config --global user.email "roshnisinghbss12@gmail.com"
+
+git config --global color.ui auto
+
+
+
+>> git init
+
+>> git remote add origin https://github.com/roshnisinghbss12-del/GITDEMO.git
+
+
+
+git pull origin main
+
+git status
+
+git add .
+git status
+git commit  -m "my name is silla"
+git push
